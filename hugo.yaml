@@ -348,7 +348,7 @@ params:
   socials:
     social0: Github || https://github.com/pengshp || fab fa-github
     social1: E-Mail || mailto:pengshp@gmail.com || fa fa-envelope
-    social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
+    social2: 知乎 || https://www.zhihu.com/people/nealinux || fa fa-book
     #Google: https://plus.google.com/yourname || fab fa-google
     social3: Twitter || https://x.com/pengshp || fab fa-twitter
     #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -416,7 +416,7 @@ params:
     # 站点开始年份，默认为当下时间的年份
     # Specify the year when the site was setup. 
     # If not defined, current year will be used.
-    since: 2020
+    since: 2016
     # 年份和版权信息之间的图标
     # Icon between year and copyright info.
     icon:
@@ -956,7 +956,7 @@ params:
     color: "#fc6423"
   # 文章分享功能
   share:
-    enable: true
+    enable: false
     # 更多信息与配置，请参考：https://sharethis.com
     # For more information and configuration, please refer to:https://sharethis.com
     # sharethis:
@@ -966,7 +966,7 @@ params:
     # For more information, please refer to: https://www.addtoany.com/
     addtoany:
       locale: zh-CN
-      num_services: 6
+      num_services: 8
   # ---------------------------------------------------------------
   # 站点统计功能
   # Statistics and Analytics

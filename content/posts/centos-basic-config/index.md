@@ -1,8 +1,10 @@
 ---
 title: CentOS7基本配置
 date: 2018-01-02T02:47:34+08:00
-categories: [CentOS]
+author: Neal
+categories: [linux]
 tags: [CentOS, Linux]
+imgs: feature-centos-stream.jpg
 ---
 
 CentOS是目前主流的服务器发行版本，本文介绍CentOS初始化安装后的一些基本配置，版本为最新的CentOS7.4.安装时勾选安装基本的开发组件。
