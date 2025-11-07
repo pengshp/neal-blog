@@ -333,7 +333,7 @@ params:
     # 站点访问信息
     # Site's view information
     views:
-      enable: true
+      enable: false
       # 组件类型，可选值为： 51la, busuanzi
       # 使用51la时需要注册账号：https://invite.51.la/
       # Plguin value is: 51la, busuanzi
@@ -817,7 +817,7 @@ params:
     storage: true
     # TODO
     # Lazyload all comment systems.
-    lazyload: true
+    # lazyload: true
     # 设置你要显示的2个评论插件，`weight` 数字越小越靠前
     # `name` 参数名可选值：livere | waline | waline3 | utterances | artalk | giscus
     # Modify texts or order for any naves, here are some examples.
@@ -989,9 +989,9 @@ params:
     # 不蒜子统计
     # Show Views / Visitors of the website / page with busuanzi.
     # For more information: http://ibruce.info/2015/04/04/busuanzi/
-    busuanzi:
-      visitorsIcon: fa fa-user
-      viewsIcon: fa fa-eye
+    # busuanzi:
+    #  visitorsIcon: fa fa-user
+    #  viewsIcon: fa fa-eye
   # ---------------------------------------------------------------
   # 内容搜索服务
   # Search Services
